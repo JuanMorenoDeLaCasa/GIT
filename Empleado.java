@@ -1,5 +1,15 @@
+/**
+ * esta clse la utilizo para apreder a documentar con javadoc
+ */
+
+
+
 package ies;
 
+/**
+ * @author Juan Moreno
+ * @version 0.0.1
+ */
 public class Empleado {
 	private int emp_no;
 	private String nombre;

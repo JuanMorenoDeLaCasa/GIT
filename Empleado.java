@@ -13,6 +13,11 @@ package ies;
 /**
  * @see <a href = "http://www.aprenderaprogramar.com" /> aprenderaprogramar.com – Didáctica en programación </a>
  * @see #getPobla
+ * @since 10/10/22
+ * @serial 101010110010	
+ * @deprecated Clase con cierta antiguedad, no se recomienda su uso
+ * @return #getPobla
+ * @throws 
  */
 public class Empleado {
 	private int emp_no;
